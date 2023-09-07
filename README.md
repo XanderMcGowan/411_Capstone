@@ -12,3 +12,5 @@ Core Functions
 
 5. The app requires a user to be able to post text, update text, and delete text. Post will only consist of a maximum of 69 characters and be text only.
 
+
+
